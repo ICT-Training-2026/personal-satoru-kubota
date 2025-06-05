@@ -7,3 +7,4 @@ public class Practice1 {
 // conflict remote
 
 // brunchをコミット
+// mainにマージ
